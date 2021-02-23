@@ -1,0 +1,42 @@
+header {
+    background-color: #ade1ff;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+h1, h1 a:link, h1 a:visited {
+    color: #69002c;
+    font-family: 'Bungee Shade', cursive;
+    text-decoration: none;
+}
+
+
+.post {
+    margin-bottom: 6rem;
+}
+
+.date {
+    color: #979797;
+}
+
+h2, h2 a:link, h2 a:visited {
+    color: #c40051;
+    font-family: 'Mountains of Christmas', cursive;
+    text-decoration: none;
+}
+
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 3rem;
+    margin: 2rem 2rem;
+}
